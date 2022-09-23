@@ -1,5 +1,5 @@
 grpc-interceptor==0.14.2
 grpcio==1.47.0
 grpcio-tools==1.47.0
-protobuf==3.20.1
+protobuf==3.20.2
 six==1.16.0
